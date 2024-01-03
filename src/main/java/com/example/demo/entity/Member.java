@@ -28,8 +28,28 @@ public class Member {
 	
 	String userId; // 회원 아이디
 	
-	String password ; // 패스워드
-	
-	
-	
+	String password ; // 패스워드	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
